@@ -1,6 +1,10 @@
-# Hello, I'm Jefferson 
+<title> Hello, I'm Jefferson </title> 
 
-<h1> I'm a student of *Systems Analysis and Development*, currently strengthening the foundations that will make me a junior developer. </h1>
+   I'm a student of *Systems Analysis and Development*, currently strengthening the foundations that will make me a junior developer.<br>
 
-<h2> - Driven by curiosity to understand the logic behind code and transform it into something useful and beautiful. </h2>
-<h3>- Learning is building, making mistakes, and debugging. </h3>
+- Driven by curiosity to understand the logic behind code and transform it into something useful and beautiful.<br>
+  
+- Learning is building, making mistakes, and debugging. <br>
+
+# I know / learning
+
