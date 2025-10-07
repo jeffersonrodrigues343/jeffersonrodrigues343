@@ -1,4 +1,4 @@
-<title> Hello, I'm Jefferson </title> 
+ # Hello, I'm Jefferson 
 
    I'm a student of *Systems Analysis and Development*, currently strengthening the foundations that will make me a junior developer.<br>
 
