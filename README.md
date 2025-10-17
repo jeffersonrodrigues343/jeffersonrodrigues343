@@ -8,6 +8,5 @@
 
 # I know / learning
 
-![alt text](https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
