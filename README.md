@@ -8,5 +8,6 @@
 
 # I know / learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrodrigues343&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![alt text](https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png)
+
 
