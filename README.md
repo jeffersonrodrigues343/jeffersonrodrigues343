@@ -8,5 +8,5 @@
 
 # I know / learning
 
-[![My Skills](https://skillicons.dev/icons?i=c#,java,linux,py,react,mysql, unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= cs,java,linux,py,react,mysql,unity)](https://skillicons.dev)
 
